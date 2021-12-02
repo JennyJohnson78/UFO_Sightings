@@ -1,6 +1,6 @@
 # UFO Sightings
 
-![image](https://user-images.githubusercontent.com/67409852/144374506-a43f914a-c8bb-4426-816f-9b4340b8db72.png)
+![image](https://user-images.githubusercontent.com/67409852/144519241-f411f9a0-7a6e-4045-afc0-c07d68856ad0.png)
 ## Overview of Project
 
 Our client's webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, added will be a table filter for the city, state, country, and shape.
