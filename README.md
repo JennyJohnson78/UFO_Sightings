@@ -15,15 +15,15 @@ To find the city you want to filter by, input it as "benton" (all lowercase). Th
 
 ![image](https://user-images.githubusercontent.com/67409852/144375219-2627703b-67cc-42de-adb4-4b5cb4213e02.png)
 
-To find the state you want to filter by, input it as the two state code, (all lowercase). The data that matches your search criteria will display.  
+To find the state you want to filter by, input it as the "state code", (all lowercase). The data that matches your search criteria will display.  
 
 ![image](https://user-images.githubusercontent.com/67409852/144375338-1ba28ba2-a16d-485e-842e-d239f48b4d74.png)
 
-To find the country you want to filter by, input in as the two country code, (all lowercase). The data that matches your search criteria will display.  
+To find the country you want to filter by, input in as the "country code", (all lowercase). The data that matches your search criteria will display.  
 
 ![image](https://user-images.githubusercontent.com/67409852/144375510-559b818a-9e44-4212-add1-6658ce187b21.png)
 
-To find the shape you want to filter by, input in as the shape code, (all lowercase). The data that matches your search criteria will display.
+To find the shape you want to filter by, input in as the "shape code", (all lowercase). The data that matches your search criteria will display.
 
 ![image](https://user-images.githubusercontent.com/67409852/144375623-b184b452-769e-48fe-9a1f-9ad5503cefb2.png)
 
