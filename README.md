@@ -15,7 +15,7 @@ To find the city to want to filter by, input it as "benton" (all lowercase). The
 
 ![image](https://user-images.githubusercontent.com/67409852/144375219-2627703b-67cc-42de-adb4-4b5cb4213e02.png)
 
-To find the state to want to filter by, input in as "1/10/2010". The data that matches your search criteria will display.  
+To find the state to want to filter by, input in as the two state code, (all lowercase). The data that matches your search criteria will display.  
 
 ![image](https://user-images.githubusercontent.com/67409852/144375338-1ba28ba2-a16d-485e-842e-d239f48b4d74.png)
 
