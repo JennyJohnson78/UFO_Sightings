@@ -1,6 +1,8 @@
 # UFO Sightings
 
 ![image](https://user-images.githubusercontent.com/67409852/144374506-a43f914a-c8bb-4426-816f-9b4340b8db72.png)
+## Overview of Project:
+
 
 ![image](https://user-images.githubusercontent.com/67409852/144375061-6ffc0039-eb6e-41ab-9bbe-cfd3649bc1cc.png)
 
