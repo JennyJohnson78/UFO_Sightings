@@ -11,7 +11,7 @@ To find the date you want to filter by, input date as "1/10/2010". The data that
 
 ![image](https://user-images.githubusercontent.com/67409852/144375061-6ffc0039-eb6e-41ab-9bbe-cfd3649bc1cc.png)
 
-To find the city to want to filter by, input it as "benton". The data that matches your search criteria will display.  
+To find the city to want to filter by, input it as "benton" (all lowercase). The data that matches your search criteria will display.  
 
 ![image](https://user-images.githubusercontent.com/67409852/144375219-2627703b-67cc-42de-adb4-4b5cb4213e02.png)
 
