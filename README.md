@@ -23,7 +23,7 @@ To find the country to want to filter by, input in as the two country code, (all
 
 ![image](https://user-images.githubusercontent.com/67409852/144375510-559b818a-9e44-4212-add1-6658ce187b21.png)
 
-To find the shape to want to filter by, input in as the two state code, (all lowercase). The data that matches your search criteria will display.
+To find the shape to want to filter by, input in as the shape code, (all lowercase). The data that matches your search criteria will display.
 
 ![image](https://user-images.githubusercontent.com/67409852/144375623-b184b452-769e-48fe-9a1f-9ad5503cefb2.png)
 
