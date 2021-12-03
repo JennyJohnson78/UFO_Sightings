@@ -45,4 +45,4 @@ Another drawback is that there is no "enter" or "filter" button. The user has to
 
 ### Additional Recommendations:
 
-Adding an "enter" or "filter" button would make the search function would increase functionality. Also, adding more search elements, as well as the ability to search by keywords within the comments would be a great addition to the website.
+Adding an "enter" or "filter" button would make the search function would increase functionality. Also, adding more search elements, as well as the ability to search by keywords within the comments would be a great addition to the webpage.
