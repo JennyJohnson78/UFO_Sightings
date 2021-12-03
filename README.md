@@ -33,7 +33,7 @@ Using all the filters, this is the result from the data:
 
 ## Summary
 
-### Drawback:
+### Drawbacks:
 
 A drawback of the original code was that unless the user input their filters in all lowercase, nothing would appear. Adding toLowerCase() to our code remedied this.
 
@@ -43,6 +43,6 @@ let eleValue = changedElement.property("value").toLowerCase();
 
 Another drawback is that there is no "enter" or "filter" button. The user has to press the Enter button on their keyboard. They may not automatically know to do this, which makes the search function less user-friendly. 
 
-### Additional recommendations:
+### Additional Recommendations:
 
 Adding an "enter" or "filter" button would make the search function would increase functionality. Also, adding more search elements, as well as the ability to search by keywords within the comments would be a great addition to the website.
