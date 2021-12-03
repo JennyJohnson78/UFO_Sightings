@@ -13,22 +13,34 @@ To find the date you want to filter by, input the date in the format "1/10/2010"
 
 To find the city you want to filter by, input the city name. The data that matches your search criteria will display. Here, the city filter is set to "Cleveland".
 
-![image](https://user-images.githubusercontent.com/67409852/144558225-04ceb21a-0f89-457f-a927-3567a0e6550a.png)
+![image](https://user-images.githubusercontent.com/67409852/144558689-9d9e9924-6aec-4199-9917-f310346bac76.png)
 
 To find the state you want to filter by, input the two letter state abbreviation. The data that matches your search criteria will display. "OH" is the abbreviation for Ohio.
 
 ![image](https://user-images.githubusercontent.com/67409852/144558540-86b1d8b5-b93e-4878-bf45-54310ca51636.png)
 
-To find the country you want to filter by. input in as the "country code", (all lowercase). The data that matches your search criteria will display.  
+To find the country you want to filter by, input the two letter country abbreviation. The data that matches your search criteria will display. "US" is the abbreviation for United States.
 
-![image](https://user-images.githubusercontent.com/67409852/144375510-559b818a-9e44-4212-add1-6658ce187b21.png)
+![image](https://user-images.githubusercontent.com/67409852/144558872-cb65e5fa-8a02-4cd9-a62c-20146dd12fe6.png)
 
-To find the shape you want to filter by. input in as the "shape code", (all lowercase). The data that matches your search criteria will display.
+To find the shape you want to filter by, input the name of the shape. The data that matches your search criteria will display. Here, the user chose the shape "Triangle."
 
-![image](https://user-images.githubusercontent.com/67409852/144375623-b184b452-769e-48fe-9a1f-9ad5503cefb2.png)
+![image](https://user-images.githubusercontent.com/67409852/144559056-a9d76abf-5d48-4c4d-b2a7-723597f1c181.png)
+
+Using all the filters, this is the result from the data:
+
+![image](https://user-images.githubusercontent.com/67409852/144559292-cc8fccbe-67bb-4517-82b8-75001d0e3516.png)
 
 ## Summary
 
 ### Drawback:
+
+A drawback of the original code was that unless the user input their filters in all lowercase, nothing would appear. Adding toLowerCase() to our code remedied this.
+
+```
+let eleValue = changedElement.property("value").toLowerCase();
+```
+
+Another drawback is that there is no "enter" or "filter" button. The user has to press the Enter button on their keyboard. They may not automatically know to do this, which makes the search function less user-friendly. 
 
 ### Additional recommendations:
