@@ -7,17 +7,17 @@ Our client's webpage and dynamic table are working as intended, but she’d like
 
 ## Results
 
-To find the date you want to filter by, input date as "1/10/2010". The data that matches your search criteria will display.  
+To find the date you want to filter by, input the date in the format "1/10/2010". The data that matches your search criteria will display. For example, here the date filter is set to January 14th, 2010.
 
-![image](https://user-images.githubusercontent.com/67409852/144375061-6ffc0039-eb6e-41ab-9bbe-cfd3649bc1cc.png)
+![image](https://user-images.githubusercontent.com/67409852/144556850-d214c6b6-12aa-4415-b71a-8eb523d341c4.png)
 
-To find the city you want to filter by, input it as "benton" (all lowercase). The data that matches your search criteria will display.  
+To find the city you want to filter by, input the city name. The data that matches your search criteria will display. Here, the city filter is set to "Cleveland".
 
-![image](https://user-images.githubusercontent.com/67409852/144375219-2627703b-67cc-42de-adb4-4b5cb4213e02.png)
+![image](https://user-images.githubusercontent.com/67409852/144558225-04ceb21a-0f89-457f-a927-3567a0e6550a.png)
 
-To find the state you want to filter by, input it as the "state code", (all lowercase). The data that matches your search criteria will display.  
+To find the state you want to filter by, input the two letter state abbreviation. The data that matches your search criteria will display. "OH" is the abbreviation for Ohio.
 
-![image](https://user-images.githubusercontent.com/67409852/144375338-1ba28ba2-a16d-485e-842e-d239f48b4d74.png)
+![image](https://user-images.githubusercontent.com/67409852/144558540-86b1d8b5-b93e-4878-bf45-54310ca51636.png)
 
 To find the country you want to filter by. input in as the "country code", (all lowercase). The data that matches your search criteria will display.  
 
@@ -29,6 +29,6 @@ To find the shape you want to filter by. input in as the "shape code", (all lowe
 
 ## Summary
 
-### One drawback:
+### Drawback:
 
-### Two additional recommendations:
+### Additional recommendations:
